@@ -1,0 +1,17 @@
+h1, h2, h3 {
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: #ff69b4;
+}
+
+.center-img {
+    text-align: center;
+}
