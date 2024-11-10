@@ -1,6 +1,10 @@
+body {
+    background-color: #fbeaeb;
+}
+
 h1, h2, h3 {
-    color: #ffffff;
-    background-color: #000000;
+    color: #fbeaeb;
+    background-color: #2f3c7e;
     text-align: center;
 }
 
@@ -9,9 +13,21 @@ ul {
 }
 
 a {
-    color: #ff69b4;
+    color: #0000ff;
 }
 
 .center-img {
     text-align: center;
+}
+
+.box {
+    background-color: #2f3c7e;
+    padding: 60px;
+}
+
+li, p {
+    padding: 20px;
+    background-color: #00ffff;
+    margin: 30px;
+    color: #000000;
 }
